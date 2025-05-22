@@ -1,1 +1,1 @@
-# Escape-Room-Game-
+# Escape-Room Game
